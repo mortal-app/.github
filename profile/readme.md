@@ -9,3 +9,6 @@
   - Jquery: https://github.com/jquery/jquery
   - Moment.js: https://github.com/moment/moment/
   - Feather icons: https://github.com/feathericons/feather
+
+- Other services
+  - web push: https://www.npmjs.com/package/web-push

@@ -12,4 +12,4 @@
 
 - Other services
   - web push: https://www.npmjs.com/package/web-push
-  - GCM: https://developers.google.com/cloud-messaging
+  - Firebase cloud messaging: https://firebase.google.com/docs/cloud-messaging/

@@ -3,7 +3,6 @@
 
 - Backend
   - Prototype: https://github.com/NotReeceHarris/Prototype
-  - Discord oauth: https://discord.com/developers/docs/topics/oauth2
 
 - Frontend
   - Jquery: https://github.com/jquery/jquery
@@ -13,3 +12,4 @@
 - Other services
   - web push: https://www.npmjs.com/package/web-push
   - Firebase cloud messaging: https://firebase.google.com/docs/cloud-messaging/
+  - Discord oauth: https://discord.com/developers/docs/topics/oauth2

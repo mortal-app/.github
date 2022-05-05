@@ -10,4 +10,5 @@ Now that we are talking about the important things ☝️, are you contributing 
 
 ---
 
-<sub>🤫 Psst! you can help us out by sponsoring us [here](https://mortal.app/donate).</sub>
+<sub>🤫 Psst! you can help us out by sponsoring us [here](https://mortal.app/donate).</sub> <br>
+<sub>Company Reg No: 14089411</sub>

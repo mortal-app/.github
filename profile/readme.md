@@ -1,4 +1,4 @@
-![Gradient mortal banner, used to flashbang anyone using dark mode! ( •̀ᴗ•́ )و ̑̑  ](https://raw.githubusercontent.com/mortal-app/.github/main/mortal.png)
+![Gradient mortal banner, used to flashbang anyone using dark mode! ( •̀ᴗ•́ )و ̑̑  ](https://raw.githubusercontent.com/mortal-app/.github/main/profile/banner.jpg)
 
 ### 📖 An open source community
 
